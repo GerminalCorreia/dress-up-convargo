@@ -10,6 +10,7 @@ header {
   height: 100px;
   text-align: center;
   padding-top: 10px;
+  border-radius: 20px;
 }
 
 h1 {
@@ -19,12 +20,26 @@ h1 {
 main {
   padding-top: 30x;
   margin-top: 50px;
+  margin-left: 50px;
 }
 
 div {
   margin-bottom: 20px;
 }
 
+#text {
+  margin-bottom: 30px;
+}
+
 #calc {
   margin-left: 50px;
+}
+
+#actors {
+  margin-top: 50px;
+  padding-left: 20px;
+  border: 2px solid blue;
+  border-radius: 20px;
+  background-color: white;
+  width: 200px;
 }
