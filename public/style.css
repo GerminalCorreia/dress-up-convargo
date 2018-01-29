@@ -18,4 +18,13 @@ h1 {
 
 main {
   padding-top: 30x;
+  margin-top: 50px;
+}
+
+div {
+  margin-bottom: 20px;
+}
+
+#calc {
+  margin-left: 50px;
 }
